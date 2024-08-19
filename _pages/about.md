@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------------------------
-Jia Gu is an assistant professor at the [Center for Data Science](http://cds.zju.edu.cn/)
+Jia Gu is an assistant professor at the [Center for Data Science](http://cds.zju.edu.cn/), Zhejiang University.
 
 Prior to joining the CDS, he obtained a PhD in statistics from the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/) at Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
 
