@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jia Gu, 顾嘉"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,19 +10,17 @@ redirect_from:
 
 About Me
 ------------------------
-Jia Gu is an assistant professor at the [Center for Data Science](http://cds.zju.edu.cn/), Zhejiang University.
+Welcome to my homepage! 
 
-Prior to joining the CDS, he obtained a PhD in statistics from the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/) at Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
+I am a final year PhD candidate in statistics at Peking University, fortunate to be advised by Professor [Song Xi Chen](http://songxichen.com). 
 
+I am broadly interested in statistics and machine learning theories. Some specifics are below:
 
-Research Interests
-------------------------
+* **Non-regular statistical models.** Address computational and theoretical challenges of non-regular models, including segmented and threshold regression. 
+* **Statistical machine learning.** New methods and statistical guarantees for machine learning topics, such as transfer learning and domain generalization.  
+* **Interdisciplinary studies.** Applications in epidemiology and geoscience. 
 
-- Distributed Statistical Inference
-- Federated Learning
-- Statistical Inference for stochastic gradient descent
-- Epidemic Modeling
-- Data Fusion
+My [CV](http://hanyan-stat.github.io/files/CV_HanYan.pdf) can be downloaded here. Please feel free to contact me if you are interested in learning more about my research. 
+Email: hanyan@stu.pku.edu.cn
 
-
-
+**I am on the 2024-2025 job market looking for full-time academia positions. I am happy to discuss any opportunities!**
