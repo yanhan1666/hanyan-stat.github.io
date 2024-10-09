@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /TA/
 title: "Teaching Assistent"
 excerpt: "TA"
 author_profile: true
