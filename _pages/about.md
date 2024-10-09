@@ -19,7 +19,7 @@ I am broadly interested in statistics and machine learning theories. Some specif
 * **Statistical machine learning.** New methods and statistical guarantees for machine learning topics, such as transfer learning and domain generalization.  
 * **Interdisciplinary studies.** Applications in epidemiology and geoscience. 
 
-My [CV](http://hanyan-stat.github.io/files/CV_HanYan.pdf) can be downloaded here. Please feel free to contact me if you are interested in learning more about my research. 
+My [CV](http://hanyan-stat.github.io/files/CV_HanYan.pdf) can be downloaded here. Please feel free to contact me if you are interested in my research. 
 Email: hanyan@stu.pku.edu.cn
 
 **I am on the 2024-2025 job market looking for full-time academia positions. I am happy to discuss any opportunities!**
