@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------------------------
+
 Welcome to my homepage! 
 
 I am a final year PhD candidate in statistics at Peking University, fortunate to be advised by Professor [Song Xi Chen](http://songxichen.com). 
