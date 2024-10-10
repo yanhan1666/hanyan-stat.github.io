@@ -20,7 +20,7 @@ I am broadly interested in statistics and machine learning theories, and also ac
 - Transfer learning and causal inference
 - Applications to epidemiology and geoscience
 
-My [CV](http://hanyan-stat.github.io/files/CV_HanYan.pdf) can be downloaded here. Please feel free to contact me via [hanyan@stu.pku.edu.cn](hanyan@stu.pku.edu.cn). 
+My [CV](http://hanyan-stat.github.io/files/CV-HY-2024-10.pdf) can be downloaded here. Please feel free to contact me via [hanyan@stu.pku.edu.cn](hanyan@stu.pku.edu.cn). 
 
 <br/>
 
