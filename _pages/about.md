@@ -14,11 +14,11 @@ I am a final year PhD candidate in statistics at Guanghua School of Management o
 
 I am broadly interested in statistics and machine learning theories, and also actively involved in interdisciplinary studies. Some specifics are below:
 
-- Segmented/threshold regression
+- Statistical and machine learning theory
+- Segmented and threshold regression
 - Semiparametric and nonparametric statistics
-- Deep learning and tree-based methods 
-- Transfer learning and domain generalization
-- Epidemic Modeling
+- Transfer learning and causal inference
+- Applications to epidemiology and geoscience
 
 My [CV](http://hanyan-stat.github.io/files/CV_HanYan.pdf) can be downloaded here. Please feel free to contact me via [hanyan@stu.pku.edu.cn](hanyan@stu.pku.edu.cn). 
 
