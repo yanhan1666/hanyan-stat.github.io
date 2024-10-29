@@ -12,7 +12,7 @@ redirect_from:
 
 I am a final year PhD candidate in statistics at Guanghua School of Management of [Peking University](https://en.gsm.pku.edu.cn/statistic), fortunate to be advised by Professor [Song Xi Chen](http://songxichen.com). 
 
-I am broadly interested in statistics and machine learning theories, and also actively involved in interdisciplinary studies. Some specifics are below:
+My research interests lie broadly in statistics and machine learning theories, and I am also actively involved in interdisciplinary studies. Some specifics are below:
 
 - Statistical and machine learning theory
 - Segmented and threshold regression
