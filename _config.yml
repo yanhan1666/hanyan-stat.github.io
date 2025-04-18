@@ -21,7 +21,7 @@ repository               : "hanyan-stat/hanyan-stat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "HanYan-2025.JPG"
+  avatar           : "HanYan-2025.jpg"
   name             : "Han Yan (闫晗)"
   pronouns         : # example: "she/her"  
   bio              : "PhD in statistics at Peking University"
