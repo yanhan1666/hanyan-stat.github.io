@@ -18,6 +18,6 @@ My research interests lie broadly in statistical inference and machine learning 
 - Segmented and threshold regression
 - Semiparametric and nonparametric statistics
 - Transfer learning and causal inference
-- Applications to epidemiology and geoscience
+
 
 My [CV](http://hanyan-stat.github.io/files/CV-HanYan-2024-12.pdf){:target="_blank"} can be downloaded here. Please feel free to contact me via [hanyan@stu.pku.edu.cn](hanyan@stu.pku.edu.cn). 
